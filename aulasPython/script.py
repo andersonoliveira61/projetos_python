@@ -1,7 +1,7 @@
 import pywhatkit as kit
 import time
 
-contatos = ['+5561982996447', '+5511989171963', '+5561995735528']
+contatos = [] #Lista de contatos aqui
 mensagem = 'Você acaba de receber uma mensagem do novo programa de envios automáticos do Anderson, feito com Python'
 
 for numero in contatos:
